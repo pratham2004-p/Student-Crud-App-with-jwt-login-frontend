@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Student CRUD App with JWT Login (Frontend)
+
+A React-based frontend project for managing students with authentication using JWT (JSON Web Token).
+
+##  Features
+-  User Authentication (Login & Register with JWT)
+-  Add,  Update,  Delete student records
+-  View all students
+-  Responsive and clean UI
+-  Built with React + Context API
+
+##  Tech Stack
+- **Frontend:** React, React Router, Context API
+- **Styling:** CSS / Bootstrap / Tailwind (your choice)
+- **Authentication:** JWT
+- **Backend:** Spring Boot + MySQL (for API)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
